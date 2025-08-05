@@ -56,7 +56,7 @@ A classic PacMan game implementation using Assembly Language (8086) in Visual St
 ![alt text](<Screenshot 2025-08-05 133746.png>)
 
 ### Gameplay
-d:\Work\University\Semester 3\COAL\Project\Screenshot 2025-08-05 133803.png
+![alt text](<Screenshot 2025-08-05 133803.png>)
 
 ## 🔧 Technical Specifications
 
@@ -80,7 +80,7 @@ d:\Work\University\Semester 3\COAL\Project\Screenshot 2025-08-05 133803.png
    git clone https://github.com/yourusername/pacman-assembly.git
    ```
 2. Open the project in Visual Studio
-3. Ensure MASM615 is properly configured
+3. Ensure MASM615 is properly configured: https://www.youtube.com/watch?v=4XH_iEehGZ0&ab_channel=DailyProgramming
 4. Build and run the project
 
 ## 🎮 How to Play
@@ -200,5 +200,3 @@ This project is developed for educational purposes as part of the COAL course cu
 
 ---
 
-**Project Deadline**: December 8th, 2023  
-**Demonstration Required**: Before December 8th, 2023
